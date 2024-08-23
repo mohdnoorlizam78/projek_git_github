@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Git</title>
+</head>
+
+<body>
+    <?php
+    echo '<p>Selamat datang.</p>';
+    echo '<p>Ini adalah fail yang pertama.</p>';
+    ?>
+</body>
+
+</html>
